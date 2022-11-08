@@ -14,7 +14,7 @@
   <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Ryu-pic" height="150" style="border-radius:50px;" src="https://freepngimg.com/save/21248-ryu-photos/721x781">
+  <img align="right" alt="Ryu-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/97b419a04f6f24d7e67461bb7a4f6b94.gif">
 </div> 
   <h2> Fale comigo 🤝🏽</h2>
   
