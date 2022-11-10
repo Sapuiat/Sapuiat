@@ -1,19 +1,24 @@
-<h1 align="center">Oi, meu nome é Miguel Nunes 👋🏽</h1>
+<h1 align="center" color="38ff32">Oi, meu nome é Miguel Nunes 👋🏽</h1>
 <p align="center">sou um desenvolvedor Front-End 👨🏽‍💻</p>
 
 
 <div align="center">
   <a href="https://github.com/Sapuiat">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Sapuiat&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapuiat&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapuiat&layout=compact&langs_count=7&theme=github_dark"/> 
+    
+  <a href="https://sapuiat.github.io/projetos/">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sapuiat&repo=projetos&theme=github_dark) 
+     
 </div>
+  
+  
   
   <h2>Linguagens</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miguel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Miguel-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Ryu-pic" height="150" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/UMXiC7XewqIO0g7qo6hjDsVA8gqY8OMGcokOlp5GNJE/https/i.picasion.com/pic92/97b419a04f6f24d7e67461bb7a4f6b94.gif?width=240&height=240">
+  <img align="right" alt="Miguel-pic" height="150" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/UMXiC7XewqIO0g7qo6hjDsVA8gqY8OMGcokOlp5GNJE/https/i.picasion.com/pic92/97b419a04f6f24d7e67461bb7a4f6b94.gif?width=240&height=240">
 </div> 
   <h2> Fale comigo 🤝🏽</h2>
   <br>
@@ -33,5 +38,6 @@
   
   
   ![Snake animation](https://github.com/Sapuiat/Sapuiat/blob/output/github-contribution-grid-snake.svg)
+  
   
 </div>
