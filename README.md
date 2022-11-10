@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/Sapuiat">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Sapuiat&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapuiat&layout=compact&langs_count=7&theme=github_dark"/> 
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapuiat&layout=compact&langs_count=7&theme=github_dark"/> 
     
   <a href="https://sapuiat.github.io/projetos/">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sapuiat&repo=projetos&theme=github_dark) 
      
